@@ -1,2 +1,2 @@
 # Jalaflix
-an Object Oriented Programming project based on Java that aims to create a streaming service platform using subscription system.
+an Object Oriented Programming Project aimed to demonstrate inheritance, encapsulation, polymorphism, and other OOP concepts implemented using java programming language.
